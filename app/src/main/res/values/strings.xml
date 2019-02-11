@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CitiesInfo</string>
+    <string name="show_cities_button">Show cities</string>
+    <string name="wait">Wait…</string>
+    <string name="fetch_data">Fetch data</string>
+
+</resources>
